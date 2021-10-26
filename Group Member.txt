@@ -1,0 +1,5 @@
+Group 4
+No	NIM	Name
+1	2301854403	Benny Kharisma
+2	2301871082	Andreas Jonathan
+3	2301850733	Andre Christian Prasetyo
